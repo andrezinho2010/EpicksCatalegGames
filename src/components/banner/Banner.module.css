@@ -1,0 +1,8 @@
+.Banner {
+  width: 100%;
+  height: 347px;
+  background-image: url('/public/images/Home.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
